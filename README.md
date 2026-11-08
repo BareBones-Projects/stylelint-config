@@ -1,3 +1,5 @@
+![stylelint-config social preview](assets/social-preview.svg)
+
 # stylelint-config-obsidianmd
 
 Shareable [Stylelint](https://stylelint.io/) config for [Obsidian](https://obsidian.md) themes. This config enforces the same CSS rules used by the Obsidian community plugin/theme review process.
@@ -94,3 +96,7 @@ The browser compatibility rule defaults to Electron 43 (Obsidian 1.13.4). If you
 ## License
 
 [MIT](LICENSE.md) &copy; [Dynalist Inc.](https://obsidian.md)
+
+
+---
+BareBones Projects, Designed by: Justin Levesque-Welsch
